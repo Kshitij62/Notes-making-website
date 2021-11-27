@@ -1,6 +1,6 @@
 The project is “Note Taking Website App Using JavaScript.” We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could. 
 
-* [Link](https://kshitij62.github.io/Notes-making-website/)
+* Website Link:[Click Here](https://kshitij62.github.io/Notes-making-website/)
 
 ## This is the attatched image of the website:
 
